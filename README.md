@@ -21,6 +21,30 @@ O **EmpreendaMT** é uma plataforma online destinada a apoiar empreendedores do 
 ### Acesso ao Site
 Você pode acessar a plataforma diretamente através do link: [EmpreendaMT](https://empreendamt-luannax.vercel.app/).
 
+O **Site Empreendamt** é um projeto desenvolvido por **Luanna** que visa fornecer uma plataforma para empreendedores e pequenos negócios.
+
+#
+
+## Como Executar o Projeto
+
+1. Clone o repositório:
+    ```bash
+    git clone https://github.com/Luannax/site-empreendamt.git
+    ```
+
+## Demonstração
+
+Uma demonstração do site está disponível em: [https://empreendamt-luannax.vercel.app/](https://empreendamt-luannax.vercel.app/)
+
+## Contribuições
+
+Contribuições são bem-vindas! Se você tiver alguma sugestão ou quiser contribuir com o projeto, por favor, abra uma issue ou envie um pull request.
+
+## Licença
+
+O Site Empreendamt é licenciado sob a [inserir licença aqui, por exemplo, MIT License].
+
+
 ### Estrutura do Projeto
 Este projeto é organizado da seguinte forma:
 ```plaintext
@@ -46,26 +70,3 @@ site-empreendamt/
 │
 ├── LICENSE
 
-
-O **Site Empreendamt** é um projeto desenvolvido por **Luanna** que visa fornecer uma plataforma para empreendedores e pequenos negócios.
-
-#
-
-## Como Executar o Projeto
-
-1. Clone o repositório:
-    ```bash
-    git clone https://github.com/Luannax/site-empreendamt.git
-    ```
-
-## Demonstração
-
-Uma demonstração do site está disponível em: [https://empreendamt-luannax.vercel.app/](https://empreendamt-luannax.vercel.app/)
-
-## Contribuições
-
-Contribuições são bem-vindas! Se você tiver alguma sugestão ou quiser contribuir com o projeto, por favor, abra uma issue ou envie um pull request.
-
-## Licença
-
-O Site Empreendamt é licenciado sob a [inserir licença aqui, por exemplo, MIT License].
