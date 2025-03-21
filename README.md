@@ -1,5 +1,6 @@
 # Site Empreendamt
 # EmpreendaMT
+![image](https://github.com/user-attachments/assets/342662e5-9e3c-4da8-b4f1-df785a0ccf10)
 
 ## Descrição
 O **EmpreendaMT** é uma plataforma online destinada a apoiar empreendedores do estado de Mato Grosso, oferecendo recursos, informações e oportunidades para desenvolvimento de negócios. O site serve como um ponto central para acesso a cursos, dicas, e eventos voltados para o fortalecimento do empreendedorismo na região.
